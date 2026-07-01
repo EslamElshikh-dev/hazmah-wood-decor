@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eslamelshikh-dev.github.io/hazmah-wood-decor/sitemap.xml
